@@ -1,0 +1,24 @@
+h1{
+color: rgb(230, 33, 92);
+}
+p{
+    background-color: blue;
+    color: chartreuse;
+    margin:s0px;
+
+}
+h1{
+    color: darkblue;
+    border: crimson;
+}
+h2{
+    color: darkmagenta;
+}
+.cse{
+    color: crimson;
+    lighting-color: rgb(237, 173, 100);
+}
+body {
+    background: lightblue url("img_tree.gif") no-repeat fixed center;
+  }
+  
